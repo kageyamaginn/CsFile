@@ -1,0 +1,5 @@
+[Lb]Sql File Expression
+[ExGroup]Sql file Regulars
+[Lb]General
+[Tx]SELECT * FROM TABLENAME
+[ExGroup--End]

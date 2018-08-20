@@ -1,0 +1,7 @@
+c:\users\hanha1\source\repos\CsFile\CsFile\bin\Debug\CsFile.exe.config
+c:\users\hanha1\source\repos\CsFile\CsFile\bin\Debug\CsFile.exe
+c:\users\hanha1\source\repos\CsFile\CsFile\bin\Debug\CsFile.pdb
+c:\users\hanha1\source\repos\CsFile\CsFile\obj\Debug\CsFile.csprojResolveAssemblyReference.cache
+c:\users\hanha1\source\repos\CsFile\CsFile\obj\Debug\CsFile.csproj.CoreCompileInputs.cache
+c:\users\hanha1\source\repos\CsFile\CsFile\obj\Debug\CsFile.exe
+c:\users\hanha1\source\repos\CsFile\CsFile\obj\Debug\CsFile.pdb
